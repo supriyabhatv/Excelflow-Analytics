@@ -34,4 +34,3 @@ For this project, we performed data analysis using Excel. Here's what I did:
 These insights provide a concise overview of the key findings related to age group distribution, total expenditure, and average income in different cities. They lay the groundwork for deeper analysis and potential implications for decision-making and resource allocation in each city.
 
 
-  
