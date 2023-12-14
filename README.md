@@ -18,7 +18,7 @@ For this project, we performed data analysis using Excel. Here's what I did:
 - Utilized Excel's filtering feature to identify null values and irregularities in the data.
 - Used Excel's conditional formatting to visually highlight duplicate values in the dataset.
 
-### Creating Dashboard:
+### Creating Dashboard:Used pivot tables to transform raw data into actionable insights, allowing for easy exploration and analysis
 - Age grops in each city : The age group dashboard provides a visual representation of population distribution across different age categories in each city. Using intuitive charts and graphs, enabling insights into the distribution of individuals unser 25, adults aged 25-60 and seniors aged 60 and above.
 - Citywise Breakdown of Total Expenditure : Through interactive charts, it provides a detailed analysis of how expenditure is distributed in different regions.This breakdown enables us to identify cities with higher or lower expenditures, facilatiting a nuanced understanding of economic activities.
 - Trend of average income across different cities : The trend analysis of average income across different cities visually represents how the average income levels have evolved over time.Utilizing stacked Bar chart, it illustrates the changes in income trends for each city.This dynamic dashboard allows us to identify cities experiencing significant income growth or decline.
