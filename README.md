@@ -1,5 +1,5 @@
 # Excelflow-Analytics
-## Project Name: Demographic and Financial Analysis across cities
+## Project Name: Demographic and Financial Analysis across Cities
 
 ### Objective:The project aims to conduct a comprehensive analysis of demographic and financial data in cities, focusing on age groups, income levels, and expenditure patterns. By profiling these factors, the objective is to uncover trends, identify economic disparities, and inform urban planning and policy decisions. 
 
